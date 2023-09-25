@@ -55,8 +55,8 @@ a)	Equal to 1
 b)	Less than or equal to 4
 c)	Sum is divisible by 2 and  3
 ANS- for Two Dice total number of outcome -36
-a) Equal to 1: There is only one way to get a sum of 1: (1, 1). 
-a) Probability = (Equal to 1) / (Total Number of Outcomes) = 1 / 36
+a)	Equal to is 0 , As minimum sum is 2 for outcome (1,1)
+    Hence Probability is 0
 b) Less than or equal to 4: 
    The possible combinations for sums less than or equal to 4 are: (1, 1), (1, 2), (1, 3), (2, 1), (2, 2), (3, 1).
    Probability = (Less than or equal to 4) / (Total Number of Outcomes) = 6 / 36 = 1 / 6
@@ -69,7 +69,7 @@ Then, n(S) = Number of drawing 2 balls out of 7
 =7C2 = (2×1)(7×6) =21
 Let E = drawing 2 balls, none of which is blue.
 ∴n(E)= Number of drawing 2 balls out of (2 + 3) balls. =5C2 = (2×1)(5×4) =10
-P(E)=n(S)n(E)=2110
+P(E)= n(E)/n(S) = 10/21 =0.476
 
 ## Q6) Calculate the Expected number of candies for a randomly selected child 
 ### Below are the probabilities of count of candies for children (ignoring the nature of the child-Generalized view)
